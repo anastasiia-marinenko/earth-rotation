@@ -1,0 +1,38 @@
+html {
+    padding: 10px;
+    font-family: 'DejaVu Sans Mono', monospace;
+    background-image: url(https://cdn.pixabay.com/photo/2018/12/18/22/29/background-3883181_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: lightcyan;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    text-shadow: -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        2px 2px 0 #000;
+
+}
+
+#title {
+    color: goldenrod;
+}
+
+figure {
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+}
